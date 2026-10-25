@@ -1,0 +1,1 @@
+# Create mapping tables for datamodel DMI : PostgreSQL

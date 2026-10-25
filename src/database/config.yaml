@@ -1,0 +1,9 @@
+db_config:
+  name: dmi_db
+  user: postgres
+  password: 1234
+  host: localhost
+  port: 5433
+
+# docker container
+# ps docker run --name postgres_dmi -e POSTGRES_PASSWORD=1234 -e POSTGRES_DB=dmi_db -p 5433:5432 -d postgres
