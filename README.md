@@ -7,6 +7,7 @@ Skriv readme
 - Denne database bliver brugt til at udstille data med my_dmi API: https://github.com/hbanhx/my_dmi
 
 
+---
 
 dmi/
 ├──
