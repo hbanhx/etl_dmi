@@ -1,8 +1,10 @@
 # TO-DO
 
 Skriv readme
-etl_dmi henter data fra DMI Open Data API og gemmer data i en PostgreSQL database
-Denne database bliver brugt til at udstille data med my_dmi API: https://github.com/hbanhx/my_dmi
+
+
+- etl_dmi henter data fra DMI Open Data API og gemmer data i en PostgreSQL database
+- Denne database bliver brugt til at udstille data med my_dmi API: https://github.com/hbanhx/my_dmi
 
 
 
